@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\graemem\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\graemem\\.nuget\\packages"
+    ]
+  }
+}
